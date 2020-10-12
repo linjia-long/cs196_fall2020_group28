@@ -1,6 +1,6 @@
 # Mining for Bias
 
-Team Members (netids): behera3,  vwkao2, riyaj3, michalj2
+Team Members (netids): behera3,  vwkao2, riyaj3, michalj2, bryanjg2
 Team PM: Aileen Long(linjial2)
 
 
