@@ -1,7 +1,7 @@
 # Mining for Bias
-Team Members (netids): behera3,  vwkao2, riyaj3, michalj2, bryanjg2
+Team Members: Serena Behera (behera3), Amith Hiremath (amithph2), Riya Jain (riyaj3), Michal Juscinski (michalj2), Bryan Ge (bryanjg2), Aditya Joshi (adityaj4)
 
-Team PM: Aileen Long(linjial2)
+Team PM: Aileen Long (linjial2)
 
 ## Background
 **Problem**: Articles that attempt to feed you a particular narrative/contain bias.
