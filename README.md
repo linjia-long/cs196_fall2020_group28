@@ -1,5 +1,6 @@
 # Mining for Bias
 Team Members (netids): behera3,  vwkao2, riyaj3, michalj2, bryanjg2
+
 Team PM: Aileen Long(linjial2)
 
 ## Background
@@ -30,7 +31,7 @@ npm start
 
 ## Usage
 Paste a news article URL into the URL textbox and click on the “Start” button to receive your subjectivity score. The lower the percentage, the less bias there is in the article.
-#### Core Features
+#### Core Features of Model
 - The ability to scrape news articles and compile a neutral version of the news
 - A bias score for an article
 - Output the web link with the lowest bias score
