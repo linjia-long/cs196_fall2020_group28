@@ -1,6 +1,7 @@
 # Mining for Bias Website
 ## Background
 **Problem**: Articles that attempt to feed you a particular narrative/contain bias.
+
 **Solution**: Take an article and use sentiment analysis to output an evaluation of the bias in the article based on its content and any accompanying image(s).
 
 ## Building the Project
